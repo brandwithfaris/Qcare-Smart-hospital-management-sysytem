@@ -1,0 +1,8 @@
+{
+  "name": "QCare — Smart Hospital Queue Management System",
+  "description": "Premium 8-slide presentation for QCare, a smart hospital queue management system presented by Faris Mohammed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
